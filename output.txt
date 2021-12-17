@@ -1,1 +1,96 @@
-_____RESULT_____
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+
+--- 172.20.94.150 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-19-37-44.in-addr.mts.com.ua name = ck-mc-abaydaknb.mts.com.ua.
+--- 172.19.37.44 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+172-21-49-191.in-addr.mts.com.ua name = dp-msc11-vsiryk.mts.com.ua.
+--- 172.21.49.191 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-21-33-27.in-addr.mts.com.ua name = dp-tu-test12.mts.com.ua.
+--- 172.21.33.27 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-19-161-17.in-addr.mts.com.ua name = ichadaiev2.mts.com.ua.
+--- 172.19.161.17 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-228-21.in-addr.mts.com.ua name = kc-to-rc1.mts.com.ua.
+--- 172.22.228.21 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-48-186.in-addr.mts.com.ua name = kh-msc42-dpanov.mts.com.ua.
+--- 172.22.48.186 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-48-193.in-addr.mts.com.ua name = kh-msc42-khrol.mts.com.ua.
+--- 172.22.48.193 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-48-139.in-addr.mts.com.ua name = kh-msc42-sbeley.mts.com.ua.
+--- 172.22.48.139 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-66-113.in-addr.mts.com.ua name = kh-tu-doroshl.mts.com.ua.
+--- 172.22.66.113 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-66-85.in-addr.mts.com.ua name = kh-tu-ivko.mts.com.ua.
+--- 172.22.66.85 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+172-22-66-90.in-addr.mts.com.ua name = kh-tu-merch.mts.com.ua.
+--- 172.22.66.90 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-66-111.in-addr.mts.com.ua name = kh-tu-mmaiorov.mts.com.ua.
+--- 172.22.66.111 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-67-90.in-addr.mts.com.ua name = kh-tu-rlysykh.mts.com.ua.
+--- 172.22.67.90 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-23-251-91.in-addr.mts.com.ua name = kt-mc-olnaumov.mts.com.ua.
+--- 172.23.251.91 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 172.29.18.80 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-81-48.in-addr.mts.com.ua name = kv-ors-vkopylov.mts.com.ua.
+--- 172.20.81.48 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+172-20-177-139.in-addr.mts.com.ua name = kv-po-lsheiko.mts.com.ua.
+--- 172.20.177.139 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-219-81.in-addr.mts.com.ua name = kv-po-rpogonets.mts.com.ua.
+--- 172.20.219.81 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-217-101.in-addr.mts.com.ua name = kv-po-seoliinyk.mts.com.ua.
+--- 172.20.217.101 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-200-64.in-addr.mts.com.ua name = kv-po-vbuzannb.mts.com.ua.
+--- 172.20.200.64 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-217-139.in-addr.mts.com.ua name = kv-po-vklochko.mts.com.ua.
+--- 172.20.217.139 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-148-63.in-addr.mts.com.ua name = kv-po-vrovnernb.mts.com.ua.
+--- 172.20.148.63 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-216-33.in-addr.mts.com.ua name = kv-po-vsafronov.mts.com.ua.
+--- 172.20.216.33 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+10-192-48-16.in-addr.intra.net.ua name = kv-sig-lstasiuk.intra.net.ua.
+--- 10.192.48.16 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-24-41-37.in-addr.mts.com.ua name = lv-nb-fedechko.mts.com.ua.
+--- 172.24.41.37 ping statistics --- 1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+172-24-81-83.in-addr.mts.com.ua name = lv-nb-osavkiv.mts.com.ua.
+--- 172.24.81.83 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-26-210-90.in-addr.mts.com.ua name = od-ale-sbalannb.mts.com.ua.
+--- 172.26.210.90 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-26-213-15.in-addr.mts.com.ua name = od-ale-ymotuz.mts.com.ua.
+--- 172.26.213.15 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+172-23-235-78.in-addr.mts.com.ua name = sd-mc-ws02.mts.com.ua.
+--- 172.23.235.78 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-78-246.in-addr.mts.com.ua name = spolchenko-wifi.mts.com.ua.
+--- 172.20.78.246 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-22-217-113.in-addr.mts.com.ua name = su-mc-radionovm.mts.com.ua.
+--- 172.22.217.113 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 172.20.94.150 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-20-78-87.in-addr.mts.com.ua name = vklivoda-wifi.mts.com.ua.
+--- 172.20.78.87 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 172.29.25.252 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+10-192-22-19.in-addr.intra.net.ua name = kv-sig-ybeldiy1.intra.net.ua.
+--- 10.192.22.19 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+172-21-133-146.in-addr.mts.com.ua name = zp-msc16-n10iev.mts.com.ua.
+--- 172.21.133.146 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-19-101-93.in-addr.mts.com.ua name = zt-mc-akulbaka.mts.com.ua.
+--- 172.19.101.93 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-19-101-28.in-addr.mts.com.ua name = zt-mc-iladan.mts.com.ua.
+--- 172.19.101.28 ping statistics --- 1 packets transmitted, 0 received, 100% packet loss, time 0ms
+172-19-101-40.in-addr.mts.com.ua name = zt-mc-ystelmakh.mts.com.ua.
+--- 172.19.101.40 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Authoritative answers can be found from:
+--- 127.0.0.1 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms
